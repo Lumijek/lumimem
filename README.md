@@ -1,1 +1,6 @@
-* Library for doing cool stuff macos mach_vm API *
+lumimem
+==============
+
+Work in progress library for manipulating Mac OS memory
+--------------
+
